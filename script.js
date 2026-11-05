@@ -19,5 +19,5 @@ typeOnScroll();
 
 setTimeout(() => {
   window.location.href = "15lastpage.html";
-}, 30000);
+}, 20000);
 
